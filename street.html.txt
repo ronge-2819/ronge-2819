@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport"content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="street.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" referrerpolicy="no-referrer" />
+    <title>Food Website</title>
+</head>
+
+<body>
+    <section id="Home">
+        <nav>
+            <div class ="logo">
+                <img src="C:\Users\Dell\Pictures\dsBuffer.bmp.png">
+            </div>   
+         <ul>
+			<li><a> href="#Home">Home</li></a>
+            <li><a> href="#About">About</li></a> 
+            <li><a> href="#Menu">Menu</li></a>
+			<li><a> href="#Gallary">Gallary</li></a>
+            <li><a> href="#Order">Order</li></a>
+
+		 </ul>	
+
+        <div class="icon">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <i class="fa-solid fa-heart"></i>
+            <i class="fa-solid fa-cart-shopping"></i>
+        </div>
+	    </nav>
+        <div class="main">
+            <div class="men_text">
+              <h1> Get fresh <span>Food</span><br>in a Easy Way</h1>
+        </div>
+
+        <div class="main_image">
+            <img src="C:\Users\Dell\Desktop\project\burger.jpg">
+        </div>
+        </div>
+        <p>
+            It is made up of a bun, a ground meat patty, and various toppings like cheese, onion slices, lettuce, and other sauces
+            soft yet crunchy, fresh and juicy that I love eating them.
+             Even though there are many kinds of burgers, my favourite one is a chicken
+              burger.
+        </p>
+        <div class="main_btn">
+            <a href="#">Order Now</a>
+            <i class="fa-solid fa-angle-right"></i>
+        </div>
+    
+    </section>
+
+
+    <div class="about" id="About">
+        <div class="about_main">
+            <div class="image">
+                <img src="C:\Users\Dell\Desktop\project\plate.jpg">
+
+            </div>
+           <div class="about_text">
+
+            <h1><span>About</span> Us</h1>
+            <h3>Why Choose us?</h3>
+            <p>
+                Exclusive Foods ambition is to safeguard the health of our customer's clientele.  
+                 All of our partners are certified according to British Retail Consortium Global 
+                Standards (BRC), Hazard Critical Control Points (HACCP) and International Food Standards (IFS)" 
+
+            </p>
+           </div> 
+        </div>
+        <a href="#"class="about_btn">Order Now</a>
+    </div>
+
+
+    <!--Menu-->
+    
+
+    <div class="menu" id="Menu">
+        <h1>Our<span>Menu</span></h1>
+
+
+        <div class="menu_box">
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\sandwich1.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Sandwich</h2>
+                    <p>
+                        A great club sandwich balances savory deli meat, 
+                        cheese and bacon with sweet-tangy condiments.
+                    </p>
+                    <h3>$100.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+            
+            
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\lasagna.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Lasagna</h2>
+                    <p>
+                        Lasagna is type of pasta,possibly one of the
+                        oldest types,made of very wide,flat sheets.
+                    </p>
+                    <h3>$150.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+    
+
+
+        
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\burger2.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Burger</h2>
+                    <p>
+                        It is a typically beef-placed inside a sliced 
+                        bun or bread roll.
+                    </p>
+                    <h3>$100.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+        
+        
+    
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\biryani.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Biryani</h2>
+                    <p>
+                        Biryani is mixed rice dish originating among the South Asia and Iran.
+                        It is made with spices,vegetables,rice and some type of meat.
+                    </p>
+                    <h3>$200.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+            
+        
+
+    
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\cutlets.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Cutlets</h2>
+                    <p>
+                        Cutlet refers to:athin slice of meat rom the leg or ribs of mutton,veal,pork
+                        a dish made of such slice,often breaded a cutlet-shaped patty.
+
+                    </p>
+                    <h3>$180.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+        
+
+
+
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\fries.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Fries</h2>
+                    <p>
+                        fried potatos of disputed origin from Belgium or France.
+                        They made by cutting potatos into even strips and frying them into deep fryer.
+                    </p>
+                    <h3>$150.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+        
+        
+        
+        
+        
+        
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\hot dog.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Hot Dog</h2>
+                    <p>
+                        A hot dog is a food consisting of grilled or steamed sausage served
+                        in the slit of a partially sliced bun.
+                    </p>
+                    <h3>$250.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+        
+        
+        
+        
+        
+        
+        
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\juice.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Juice</h2>
+                    <p>
+                        Soft drinks.
+                    </p>
+                    <h3>$100.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+            
+        
+        
+        
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\pasta.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Pasta</h2>
+                    <p>
+                        Pasta is a type of food typically made from an
+                        unleavened dough of wheat flour mixed with water
+                        or eggs and formed into shapes then cooked by boiling.
+                    </p>
+                    <h3>$200.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+                </div>
+            </div>
+            
+            
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\pizza1.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Pizza</h2>
+                    <p>
+                        Pizza is dish of Italian origin consisting of a usually round,
+                        flat base of leavened wheat based dough topped with tomatoes,cheese,and 
+                        other ingredients,which bakes at a high tempreture.
+                    </p>
+                    <h3>$170.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+            
+            
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\roll.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Roll</h2>
+                    <p>
+                        A bread roll is a small,often round loaf of bread served 
+                        as a meal accompaniment.
+
+                    </p>
+                    <h3>$160.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+            
+            
+            
+            <div class="menu_card">
+
+
+                <div class="menu_image">
+                    <img src="C:\Users\Dell\Desktop\project\tea.jpg">
+                </div>
+
+                <div class="small_card">
+                    <i class="fa-solid fa-heart"></i>
+                </div>
+
+                <div class="menu_info">
+                    <h2>Tea</h2>
+                    <p>
+                        Tea is an aromatic beverage prepared by pouring hot or
+                        boiling water over cured. It may boost your immune system.
+                    </p>
+                    <h3>$90.00</h3>
+                    <a href="#" class="menu_btn">Order Now</a>
+
+                </div>
+            </div>
+       </div>    
+    </div>
+
+
+
+    <!--Gallary-->
+
+    <div class="gallary" id="Gallary">
+        <h1>Our  <span> Gallary</span></h1>
+        <div class="gallary_image_box">
+            <div class="gallary_image">
+                <img src="C:\Users\Dell\Desktop\project\pastry.jpg">
+                <h3>Pastry</h3>
+                <p>
+                    Pastry is baked food made with a flour,water and butter,solid Fast.
+                </p>
+                <a href="#" class="gallary_btn">Order Now</a>
+            </div>
+            
+    
+                <div class="gallary_image">
+                    <img src="C:\Users\Dell\Desktop\project\coffee.jpg">
+                    <h3>coffee</h3>
+                    <p>
+                        Coffee is  beverage prepared from roasted coffee beans.
+                    </p>
+                    <a href="#" class="gallary_btn">Order Now</a>
+                </div>
+                
+    
+                    <div class="gallary_image">
+                        <img src="C:\Users\Dell\Desktop\project\ice cream.jpg">
+                        <h3>Ice cream</h3>
+                        <p>
+                            Ice cream is a frozen dessert typically made form milk
+                            or cream that has been flavoured with a sweetener.
+                        </p>
+                        <a href="#" class="gallary_btn">Order Now</a>
+                    </div> 
+                    
+    
+                        <div class="gallary_image">
+                            <img src="C:\Users\Dell\Desktop\project\cup cake.jpg">
+                            <h3>Cup cake</h3>
+                            <p>
+                                Cup cake is a small cake designed to serve one person.
+                            </p>
+                            <a href="#" class="gallary_btn">Order Now</a>
+                        </div> 
+                        
+                
+                            <div class="gallary_image">
+                                <img src="C:\Users\Dell\Desktop\project\chocolate.jpg">
+                                <h3>Chocolate</h3>
+                                <p>
+                                    Chocolate or coco is a food made from rasted and ground cocao seeed
+                                    kernels that is available as a liquid,solid,paste or as a other food.
+                                </p>
+                                <a href="#" class="gallary_btn">Order Now</a>
+                            </div> 
+                            
+            
+                                <div class="gallary_image">
+                                    <img src="C:\Users\Dell\Desktop\F image\Chinese\Chicken Chow-mein.jpg">
+                                    <h3>Chow mein</h3>
+                                    <p>
+                                        Chow mein is a Chinese dish from stir- fried noodles with vegetables and
+                                        sometimes meat or tofu.
+                                    </p>
+                                    <a href="#" class="gallary_btn">Order Now</a>
+                                </div> 
+                                
+                                
+                                    <div class="gallary_image">
+                                        <img src="C:\Users\Dell\Desktop\project\manchurian.jpg">
+                                        <h3>Manchurian</h3>
+                                        <p>
+                                            There are two different variants of Manchurian,dry or
+                                             sometimesdry and with gravy.
+                                        </p>
+                                        <a href="#" class="gallary_btn">Order Now</a>
+                                    </div>
+
+                                    
+                                        <div class="gallary_image">
+                                            <img src="C:\Users\Dell\Desktop\project\food\vada.jpg">
+                                            <h3>Vada pao</h3>
+                                            <p>
+                                                Vada pao is a vegetarian fast food dish.
+                                            </p>
+                                            <a href="#" class="gallary_btn">Order Now</a>
+                                        </div>
+
+                                        <div class="gallary_image">
+                                            <img src="C:\Users\Dell\Desktop\project\F image\Paneer\Butter Paneer.jpg">
+                                            <h3>Butter paneer</h3>
+                                            <p>
+                                                Butter paneer is a rich and creamy curry made with paneer,
+                                                spices,onions,tomatoes,cashews and butteer.
+                                            </p>
+                                            <a href="#" class="gallary_btn">Order Now</a>
+                                        </div>
+                                    
+         </div>
+
+    </div>
+
+
+    <!--order-->
+
+    <div class="order" id="Order">
+        <h1><span>Order</span> Now</h1>
+
+
+        <div class="order_main">
+
+            <div class="order_image">
+            <img src="C:\Users\Dell\Desktop\project\order.jpg">
+        </div>
+
+        <form action="#">
+            <div class="input">
+                <p>Name</p>
+                <input type="text" placeholder="your name">
+            </div>
+            
+            <div class="input">
+                <p>Email</p>
+                <input type="email" placeholder="your email">
+            </div>
+
+            <div class="input">
+                <p>Number</p>
+                <input placeholder="your number">
+            </div>
+
+
+            <div class="input">
+                <p>How much</p>
+                <input type="number" placeholder="how much">
+            </div>  
+            
+            <div class="input">
+                <p>Your Order</p>
+                <input placeholder="food name">
+            </div> 
+            
+            <div class="input">
+                <p>Address</p>
+                <input placeholder="your address">
+            </div>  
+
+           <a href="#" class="order_btn">Order Now</a>
+            
+        </form>
+    </div>
+    </div>
+
+
+
+    <!--footer-->
+
+    <footer>
+        <div class="footer_main">
+
+            <div class="footer_tag">
+                <h2>Location</h2>
+                <p>India</p>
+                <p>Italy</p>
+                <p>sri lanka</p>
+                <p>Japan</p> 
+                <p>USA</p>               
+            </div>
+
+            <div class="footer_tag">
+                <h2>Quick Link</h2>
+                <p>Home</p>
+                <p>About</p>
+                <p>Menu</p>
+                <p>Gallary</p>
+                <p>Order</p>               
+            </div>
+
+            <div class="footer_tag">
+                <h2>Contact</h2>
+                <p>+98 22 3475 758</p>
+                <p>+98 54548 76598</p>
+                <p>switi548@gmail.com</p>
+                <p>Adi576@gmail.com</p>                
+            </div>
+
+            <div class="footer_tag">
+                <h2>Our Service</h2>
+                <p>Fast delivery</p>
+                <p>Easy payment</p>
+                <p>24 x 7 Service</p>
+            </div>
+
+            <div class="footer_tag">
+                <h2>Follows</h2>
+                <i class="fa-brands fa-facebook-f"></i>
+                <i class="fa-brands fa-twitter"></i>
+                <i class="fa-brands fa-instagram"></i>
+                
+            </div> 
+            </div>
+            
+            <p class="end">Desing by<span><i class="fa-solid fa-face-grin"></i>Switi</span></p>
+
+        </footer_main>
+
+    </footer>
+
+    </div>
+</body>
+</html>
